@@ -1,0 +1,90 @@
+cnow running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now running test.py with t=6
+now running test.py with t=7
+now running test.py with t=8
+now running test.py with t=9
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now running test.py with t=6
+now running test.py with t=7
+now running test.py with t=8
+now running test.py with t=9
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now running test.py with t=6
+now running test.py with t=7
+now running test.py with t=8
+now running test.py with t=9
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now running test.py with t=6
+now running test.py with t=7
+now running test.py with t=8
+now running test.py with t=9
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now running test.py with t=6
+now running test.py with t=7
+now running test.py with t=8
+now running test.py with t=9
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now running test.py with t=6
+now running test.py with t=7
+now running test.py with t=8
+now running test.py with t=9
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now running test.py with t=2
+now running test.py with t=3
+now running test.py with t=4
+now running test.py with t=5
+now running test.py with t=6
+now running test.py with t=7
+now running test.py with t=8
+now running test.py with t=9
+now waiting...
+now running test.py with t=0
+now running test.py with t=1
+now waiting...
